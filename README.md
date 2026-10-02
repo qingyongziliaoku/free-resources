@@ -6,6 +6,10 @@
 
 适合 2–8 人、最多 100 笔费用，按每笔实际参与者均分。含成员设置、费用明细、结算汇总与三人示例，可查看每人的已付款、应分摊、应收与应付。
 
+优先领取：[百度网盘免费领取](https://pan.baidu.com/s/1ElBwl08ozgw3-1pB2Vb38g?pwd=36sw)，提取码：36sw。
+
+GitHub 备用下载：
+
 - [下载记账模板（XLSX）](aa-travel.xlsx)
 - [查看使用说明（PDF）](aa-guide.pdf)
 
@@ -16,6 +20,10 @@
 ## 2. 猫咪日常：6 款少色原创拼豆图纸
 
 包含橘猫早安、黑猫坐坐、灰猫趴趴、纸箱探头、团团午睡、抱抱毛线。每款 4–5 色，图案范围均不超过 29×29 格。
+
+优先领取：[百度网盘免费领取](https://pan.baidu.com/s/1a9SNz8v2S051f3jzYlYYsQ?pwd=accu)，提取码：accu。
+
+GitHub 备用下载：
 
 - [查看图纸册（PDF，8 页）](cat-patterns.pdf)
 - [下载完整包（ZIP，含 PDF、高清 PNG 与 CSV）](cat-patterns.zip)
